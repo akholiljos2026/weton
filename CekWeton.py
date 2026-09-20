@@ -7,7 +7,7 @@ import getpass
 import socket
 
 # === KONFIGURASI HALAMAN ===
-st.set_page_config(page_title="Kalkulator Weton Jawa", page_icon="🌙", layout="wide")
+st.set_page_config(page_title="Kalkulator Weton Jawa --- (by@Matkoncar)", page_icon="🌙", layout="wide")
 
 # === NAMA FILE EXCEL ===
 FILE_EXCEL = "data_weton_jodoh.xlsx"
