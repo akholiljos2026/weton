@@ -110,7 +110,7 @@ def hitung_kategori_jodoh(neptu1, neptu2):
     return jumlah, kategori_jodoh[sisa]
 
 # === JUDUL ===
-st.markdown("<h1 style='font-size: 24px;'>🌙 Kalkulator Weton Jawa - by @Matkoncar</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='font-size: 28px;'>🌙 Kalkulator Weton Jawa - by @Matkoncar</h1>", unsafe_allow_html=True)
 st.subheader("Sifat Cipto, Roso & Kecocokan Calon Jodoh")
 st.markdown("---")
 
