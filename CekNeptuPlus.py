@@ -79,7 +79,7 @@ st.markdown("---")
 
 # === INPUT TANGGAL ===
 tgl_lahir = st.date_input(
-    "Tanggal Kelahiran (yyyy,mm,dd)",
+    "Masukkan Tanggal (yyyy,mm,dd)",
     value=date(2004, 10, 21),
     min_value=date(1900, 1, 1),
     max_value=date(2036, 12, 31),
